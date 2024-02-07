@@ -9,10 +9,10 @@ Applying five different sampling techniques to five different ML models (Logisti
 
 
 ## **2. Input / Output**
-<p>Input</p>
-<img src="results_img.PNG" width="80%" height="60%">
-<p>Output</p>
-<img src="topsis_result_img.PNG" width="100%" height="80%">
+<p>Unbalanced Dataset</p>
+<img src="unbalanced_dataset.PNG" width="80%" height="60%">
+<p>Balanced Dataset</p>
+<img src="balanced_dataset.PNG" width="80%" height="60%">
 
 
 ## **3. ML Models Used**
@@ -32,4 +32,6 @@ Applying five different sampling techniques to five different ML models (Logisti
 
 
 ## **5. Result**
-<img src="img1.PNG" width="100%" height="100%">
+Logistic regression achieved the highest accuracy with Bootstrap sampling having the highest accuracy of 0.709607.
+
+<img src="result.PNG" width="100%" height="100%">
